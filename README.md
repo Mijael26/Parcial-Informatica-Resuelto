@@ -1,4 +1,4 @@
-# Parcial-Informatica-Resuelto
+# Parcial-Informatica-Resuelto - UTN REGIONAL BUENOS AIRES
 Parcial 1er año de Informatica I
 Realizar un diagrama que resuelva el siguiente problema:
 
